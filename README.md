@@ -5,6 +5,7 @@ JSON/SQLite 쓰면서 데이터 받아서 급여 보여주는 앱
 
 
 
-</br>사진 누르는 순간에 QR코드 나오는것
+사진 누르는 순간에 QR코드 나오는것
+
 https://github.com/user-attachments/assets/0865c3a0-69b2-457f-b889-6ab7194f11c4
 
