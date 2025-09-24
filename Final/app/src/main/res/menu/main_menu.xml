@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_background_music"
+        android:title="배경음악"
+        android:checkable="true"
+        android:icon="@android:drawable/ic_media_play" />
+
+    <item
+        android:id="@+id/menu_communication_method"
+        android:title="통신 방법"
+        android:icon="@android:drawable/ic_menu_manage">
+        <menu>
+            <item
+                android:id="@+id/menu_async_thread"
+                android:title="Async Thread" />
+            <item
+                android:id="@+id/menu_sync_method"
+                android:title="Sync Method" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_image_shape"
+        android:title="이미지 모양"
+        android:icon="@android:drawable/ic_menu_crop">
+        <menu>
+            <item
+                android:id="@+id/menu_rectangle_shape"
+                android:title="사각형"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/menu_circle_shape"
+                android:title="원형"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+</menu>

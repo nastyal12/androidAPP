@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Final</string>
+
+<!-- Button texts -->
+<string name="btn_all">전체</string>
+<string name="btn_male">남자</string>
+<string name="btn_female">여자</string>
+<string name="btn_sort_asc">급여 올림차순</string>
+<string name="btn_sort_desc">급여 내림차순</string>
+
+<!-- Dialog texts -->
+<string name="dialog_confirm">확인</string>
+<string name="dialog_cancel">취소</string>
+
+<!-- Menu texts -->
+<string name="menu_refresh">새로고침</string>
+<string name="menu_communication_method">통신 방법</string>
+<string name="menu_image_shape">이미지 모양</string>
+<string name="menu_background_music">배경음악</string>
+
+<!-- Messages -->
+<string name="loading_data">데이터를 불러오는 중...</string>
+<string name="data_load_complete">데이터 로드 완료</string>
+<string name="data_load_failed">데이터 로드 실패</string>
+<string name="background_music_on">배경음악 켜짐</string>
+<string name="background_music_off">배경음악 꺼짐</string>
+
+<!-- Employee info -->
+<string name="employee_id">사번: %s</string>
+<string name="employee_gender">성별: %s</string>
+<string name="employee_salary">급여: %s원</string>
+
+</resources>
