@@ -4,3 +4,7 @@ JSON/SQLite 쓰면서 데이터 받아서 급여 보여주는 앱
 <img width="186" height="340" alt="image" src="https://github.com/user-attachments/assets/fb78db78-0517-44b7-b143-5a1c3e9b3ec9" />
 
 
+
+
+https://github.com/user-attachments/assets/0865c3a0-69b2-457f-b889-6ab7194f11c4
+
